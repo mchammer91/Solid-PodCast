@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.SpaServices.AngularCli;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Solid_PodCast
+namespace Solid_Podcast
 {
     public class Startup
     {
